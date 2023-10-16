@@ -166,6 +166,8 @@ footer {
     color:black;
 }
 .boton2{
+    text-decoration: none;
+    color: black;
     margin-right: 15px;
 }
 .preferen {
@@ -173,4 +175,8 @@ footer {
     display: flex;
     background: #f2f2f2;
     height: 50px;
+}
+
+.preferen a :hover{
+    text-decoration: underline;
 }
